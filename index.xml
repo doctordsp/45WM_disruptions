@@ -6,6 +6,12 @@
       <description>Last 10 notes on EM in ...</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Index</title>
+    <link>https://doctordsp.github.io/45WM_emdisciplines/Index</link>
+    <guid>https://doctordsp.github.io/45WM_emdisciplines/Index</guid>
+    <description>This is a collection of disruptions for engineering education. They are arranged in a chart based upon the amount of disruption and the relative timing.</description>
+    <pubDate>Wed, 19 Mar 2025 19:56:21 GMT</pubDate>
+  </item><item>
     <title>Disruption Element 16</title>
     <link>https://doctordsp.github.io/45WM_emdisciplines/Disruption-Element-16</link>
     <guid>https://doctordsp.github.io/45WM_emdisciplines/Disruption-Element-16</guid>
@@ -59,12 +65,6 @@
     <guid>https://doctordsp.github.io/45WM_emdisciplines/Disruption-Element-8</guid>
     <description>Synthetic Biology Engineering Through Biological Computing The convergence of synthetic biology and computing could lead to radical new approaches to engineering education ...</description>
     <pubDate>Wed, 19 Mar 2025 04:52:18 GMT</pubDate>
-  </item><item>
-    <title>Disruption Element 7</title>
-    <link>https://doctordsp.github.io/45WM_emdisciplines/Disruption-Element-7</link>
-    <guid>https://doctordsp.github.io/45WM_emdisciplines/Disruption-Element-7</guid>
-    <description>Quantum Engineering Education As quantum technologies transition from research labs to commercial applications, a significant skill gap is emerging. The Quantum Economic Development Consortium estimates that the quantum industry will require over 100,000 skilled workers by 2030, yet fewer than 5,000 graduates annually have relevant training (QED-C, 2023).</description>
-    <pubDate>Wed, 19 Mar 2025 04:52:12 GMT</pubDate>
   </item>
     </channel>
   </rss>
